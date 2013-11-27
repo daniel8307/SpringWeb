@@ -1,0 +1,56 @@
+2013-11-27 15:40:04,908 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.naskar:springmvc:0.0.1-SNAPSHOT @ /home/david/Workspace Projetos/Painel GDRF - Petrobras/SpringWeb/com-naskar-springmvc/pom.xml.
+2013-11-27 15:40:05,364 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-11-27 15:40:05,854 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://snapshots.repository.codehaus.org/org/codehaus/jackson/jackson-mapper-asl/1.9.10/jackson-mapper-asl-1.9.10.pom
+2013-11-27 15:40:05,877 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-11-27 15:40:06,206 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.9.10/jackson-mapper-asl-1.9.10.pom
+2013-11-27 15:40:06,224 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.9.10/jackson-mapper-asl-1.9.10.pom
+2013-11-27 15:40:06,418 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-11-27 15:40:06,727 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://snapshots.repository.codehaus.org/org/codehaus/jackson/jackson-core-asl/1.9.10/jackson-core-asl-1.9.10.pom
+2013-11-27 15:40:06,737 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-11-27 15:40:07,353 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.9.10/jackson-core-asl-1.9.10.pom
+2013-11-27 15:40:07,354 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.9.10/jackson-core-asl-1.9.10.pom
+2013-11-27 15:40:07,495 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-11-27 15:40:07,973 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://snapshots.repository.codehaus.org/org/codehaus/jackson/jackson-mapper-asl/1.9.10/jackson-mapper-asl-1.9.10.jar
+2013-11-27 15:40:07,973 [New I/O client worker #5-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://snapshots.repository.codehaus.org/org/codehaus/jackson/jackson-core-asl/1.9.10/jackson-core-asl-1.9.10.jar
+2013-11-27 15:40:07,977 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-11-27 15:40:08,380 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.9.10/jackson-mapper-asl-1.9.10.jar
+2013-11-27 15:40:08,385 [New I/O client worker #6-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.9.10/jackson-core-asl-1.9.10.jar
+2013-11-27 15:40:09,368 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.naskar:springmvc:0.0.1-SNAPSHOT @ /home/david/Workspace Projetos/Painel GDRF - Petrobras/SpringWeb/com-naskar-springmvc/pom.xml.
+2013-11-27 15:40:09,439 [Worker-8] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-11-27 15:40:09,442 [Worker-8] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-11-27 15:40:09,449 [Worker-8] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2013-11-27 15:40:09,820 [New I/O client worker #6-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.9.10/jackson-core-asl-1.9.10.jar
+2013-11-27 15:40:09,823 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.9.10/jackson-mapper-asl-1.9.10.jar
+2013-11-27 15:40:09,830 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.9.10/jackson-core-asl-1.9.10.jar
+2013-11-27 15:40:11,454 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.9.10/jackson-mapper-asl-1.9.10.jar
+2013-11-27 15:40:13,881 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-27 15:40:13,890 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2013-11-27 15:40:13,897 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-27 15:40:13,898 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/david/Workspace Projetos/Painel GDRF - Petrobras/SpringWeb/com-naskar-springmvc/src/test/resources
+2013-11-27 15:40:14,240 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.naskar:springmvc:0.0.1-SNAPSHOT @ /home/david/Workspace Projetos/Painel GDRF - Petrobras/SpringWeb/com-naskar-springmvc/pom.xml.
+2013-11-27 15:40:14,451 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.naskar:springmvc:0.0.1-SNAPSHOT @ /home/david/Workspace Projetos/Painel GDRF - Petrobras/SpringWeb/com-naskar-springmvc/pom.xml.
+2013-11-27 15:40:17,596 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-27 15:40:17,623 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2013-11-27 15:40:17,626 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-27 15:40:17,627 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/david/Workspace Projetos/Painel GDRF - Petrobras/SpringWeb/com-naskar-springmvc/src/test/resources
+2013-11-27 15:41:45,679 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-11-27 15:41:45,792 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.naskar:springmvc:0.0.1-SNAPSHOT @ /home/david/Workspace Projetos/Painel GDRF - Petrobras/SpringWeb/com-naskar-springmvc/pom.xml.
+2013-11-27 15:41:45,885 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com-naskar-springmvc/src/main/java
+2013-11-27 15:41:45,885 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /com-naskar-springmvc/src/main/resources
+2013-11-27 15:41:45,886 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com-naskar-springmvc/src/test/java
+2013-11-27 15:41:46,375 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for com-naskar-springmvc
+2013-11-27 15:41:46,381 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-11-27 15:41:48,429 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.naskar:springmvc:0.0.1-SNAPSHOT @ /home/david/Workspace Projetos/Painel GDRF - Petrobras/SpringWeb/com-naskar-springmvc/pom.xml.
+2013-11-27 15:41:48,654 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-27 15:41:48,655 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2013-11-27 15:41:48,658 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-27 15:41:48,658 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/david/Workspace Projetos/Painel GDRF - Petrobras/SpringWeb/com-naskar-springmvc/src/test/resources
+2013-11-27 15:41:51,565 [Worker-5] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for com-naskar-springmvc
+2013-11-27 15:41:52,791 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-27 15:41:52,792 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2013-11-27 15:41:52,794 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-27 15:41:52,795 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/david/Workspace Projetos/Painel GDRF - Petrobras/SpringWeb/com-naskar-springmvc/src/test/resources
+2013-11-27 15:43:38,574 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-27 15:43:38,575 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-27 15:43:38,577 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-11-27 15:43:38,577 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/david/Workspace Projetos/Painel GDRF - Petrobras/SpringWeb/com-naskar-springmvc/src/test/resources
