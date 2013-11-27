@@ -1,11 +1,13 @@
 package com.naskar.springmvc.domain;
 
 import java.util.List;
+import java.util.Map;
 
 public class Teste {
 	private int id;
 	private String nome;
 	private List<Teste2> lista;
+	private Map<Integer,String> listMap;
 
 	public List<Teste2> getLista() {
 		return lista;
@@ -29,6 +31,14 @@ public class Teste {
 
 	public void setNome(String nome) {
 		this.nome = nome;
+	}
+
+	public Map<Integer, String> getListMap() {
+		return listMap;
+	}
+
+	public void setListMap(Map<Integer, String> listMap) {
+		this.listMap = listMap;
 	}
 
 }
